@@ -1,6 +1,99 @@
-# 💫 About Me:
-# 👩‍💻 Phyu Sin Aye | Full-Stack Developer<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/phyu-sin-aye-03665a191/)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-phyusinnora-black?logo=github)](https://github.com/phyusinnora)<br><br>[![Email](https://img.shields.io/badge/Email-phyusin.psa23@gmail.com-red?logo=gmail)](mailto:phyusin.psa23@gmail.com)<br><br>---<br><br>## 🌟 About Me<br><br>I'm an experienced **Full-Stack Developer** currently pursuing a Graduate Diploma in System Analysis at the **National University of Singapore**. My expertise spans **Java Spring Framework**, **Kotlin**, and modern web/mobile application development.<br><br>With a strong background in **IT support**, **system administration**, and **software design**, I bring both technical knowledge and hands-on experience in delivering user-friendly and scalable solutions.<br><br>---<br><br>## 🛠️ Technical Skills<br><br>- **Languages**: Java, Kotlin, Python, JavaScript, HTML/CSS  <br>- **Frameworks**: Spring Boot, Spring MVC, Thymeleaf, React.js  <br>- **Databases**: MySQL, MSSQL  <br>- **Cloud/Tools**: Microsoft Azure (Certified), Git  <br>- **System Administration**: Network Infrastructure, IT Support<br><br>---<br><br>## 💼 Work Experience<br><br>### 💡 Software Development Intern *(SSMC, Mar–Jul 2025)*<br>- Automated workflows using **Nintex K2 Five**<br>- Cross-database integration between Oracle and SQL Server<br><br>### 💼 Assistant Project Coordinator *(Young Investment Group, Oct 2023 – Feb 2024)*<br>- Managed procurement workflows, reduced costs by 20%<br>- Oversaw project tracking system for IT hardware<br><br>### 🖥️ Junior App Support Analyst *(KBTC Group, May–Sep 2023)*<br>- Helped build School Management System  <br>- Identified 20+ bugs and improved user experience<br><br>### 🛠️ IT Support *(KBTC Group, Jul 2022 – Apr 2023)*<br>- Supported 30+ staff, maintained LMS with 200+ students  <br>- Network setup across multiple branches<br><br>---<br><br>## 📱 Projects<br><br>### 🔹 Health Predictor Application *(Jan 2025)*<br>> Final project — Web & mobile app for health predictions  <br>- Built with Java Spring Boot (backend) and Kotlin (mobile)<br>- Integrated Spring Security with Thymeleaf<br>- Real-time predictions & cross-platform compatibility<br><br>### 🔹 Flip Card Mobile App *(Nov 2024)*<br>> Class activity  <br>- Created Kotlin-based UI for leaderboard and quiz module  <br>- Integrated REST API with real-time updates and error handling<br><br>### 🔹 E-Commerce Website *(Oct 2024)*<br>> Team project (8 members)  <br>- Developed Purchase History Record feature  <br>- Used Java Spring MVC with full CRUD operations<br><br>### 🔹 GFF Supermarket Analysis *(Sep 2024)*<br>- Conducted design analysis with user personas and journey mapping  <br>- Proposed architectural solutions for retail software<br><br>---<br><br>## 📜 Certifications<br><br>- Microsoft Certified: **Azure Fundamentals**  <br>- ICSI: **Certified Network Security Specialist**  <br>- **Java Full-Stack Course** (Java SE, Spring, Angular)  <br>- A+ Hardware Engineering  <br><br>---<br><br>## 🌐 Languages<br><br>- **Burmese** (Native) – Full Professional Proficiency  <br>- **English** – Business Working Proficiency  <br>- **Japanese** (N5) – Basic Comprehension  <br><br>---<br><br>## 📫 Contact<br><br>- 📧 Email: [phyusin.psa23@gmail.com](mailto:phyusin.psa23@gmail.com)  <br>- 🔗 LinkedIn: [linkedin.com/in/phyu-sin-aye-03665a191](https://www.linkedin.com/in/phyu-sin-aye-03665a191)  <br>- 🖥️ GitHub: [github.com/phyusinnora](https://github.com/phyusinnora)<br><br>---
+# 👩‍💻 Phyu Sin Aye | Full-Stack Developer
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/phyu-sin-aye-03665a191/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-phyusinnora-black?logo=github)](https://github.com/phyusinnora)
+
+[![Email](https://img.shields.io/badge/Email-phyusin.psa23@gmail.com-red?logo=gmail)](mailto:phyusin.psa23@gmail.com)
+
+---
+
+## 🌟 About Me
+
+I'm an experienced **Full-Stack Developer** currently pursuing a Graduate Diploma in System Analysis at the **National University of Singapore**. My expertise spans **Java Spring Framework**, **Kotlin**, and modern web/mobile application development.
+
+With a strong background in **IT support**, **system administration**, and **software design**, I bring both technical knowledge and hands-on experience in delivering user-friendly and scalable solutions.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages**: Java, Kotlin, Python, JavaScript, HTML/CSS  
+- **Frameworks**: Spring Boot, Spring MVC, Thymeleaf, React.js  
+- **Databases**: MySQL, MSSQL  
+- **Cloud/Tools**: Microsoft Azure (Certified), Git  
+- **System Administration**: Network Infrastructure, IT Support
+
+---
+
+## 💼 Work Experience
+
+### 💡 Software Development Intern *(SSMC, Mar–Jul 2025)*
+- Automated workflows using **Nintex K2 Five**
+- Cross-database integration between Oracle and SQL Server
+
+### 💼 Assistant Project Coordinator *(Young Investment Group, Oct 2023 – Feb 2024)*
+- Managed procurement workflows, reduced costs by 20%
+- Oversaw project tracking system for IT hardware
+
+### 🖥️ Junior App Support Analyst *(KBTC Group, May–Sep 2023)*
+- Helped build School Management System  
+- Identified 20+ bugs and improved user experience
+
+### 🛠️ IT Support *(KBTC Group, Jul 2022 – Apr 2023)*
+- Supported 30+ staff, maintained LMS with 200+ students  
+- Network setup across multiple branches
+
+---
+
+## 📱 Projects
+
+### 🔹 Health Predictor Application *(Jan 2025)*
+> Final project — Web & mobile app for health predictions  
+- Built with Java Spring Boot (backend) and Kotlin (mobile)
+- Integrated Spring Security with Thymeleaf
+- Real-time predictions & cross-platform compatibility
+
+### 🔹 Flip Card Mobile App *(Nov 2024)*
+> Class activity  
+- Created Kotlin-based UI for leaderboard and quiz module  
+- Integrated REST API with real-time updates and error handling
+
+### 🔹 E-Commerce Website *(Oct 2024)*
+> Team project (8 members)  
+- Developed Purchase History Record feature  
+- Used Java Spring MVC with full CRUD operations
+
+### 🔹 GFF Supermarket Analysis *(Sep 2024)*
+- Conducted design analysis with user personas and journey mapping  
+- Proposed architectural solutions for retail software
+
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: **Azure Fundamentals**  
+- ICSI: **Certified Network Security Specialist**  
+- **Java Full-Stack Course** (Java SE, Spring, Angular)  
+- A+ Hardware Engineering  
+
+---
+
+## 🌐 Languages
+
+- **Burmese** (Native) – Full Professional Proficiency  
+- **English** – Business Working Proficiency  
+- **Japanese** (N5) – Basic Comprehension  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [phyusin.psa23@gmail.com](mailto:phyusin.psa23@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/phyu-sin-aye-03665a191](https://www.linkedin.com/in/phyu-sin-aye-03665a191)  
+- 🖥️ GitHub: [github.com/phyusinnora](https://github.com/phyusinnora)
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1HbhSkVEcu/?mibextid=wwXIfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phyu-sin-aye-b3157a340/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phyusin.psa23@gmail.com) 
