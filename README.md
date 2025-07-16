@@ -1,7 +1,9 @@
 # 👩‍💻 Phyu Sin Aye | Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/phyu-sin-aye-03665a191/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-phyusinnora-black?logo=github)](https://github.com/phyusinnora)
+
 [![Email](https://img.shields.io/badge/Email-phyusin.psa23@gmail.com-red?logo=gmail)](mailto:phyusin.psa23@gmail.com)
 
 ---
