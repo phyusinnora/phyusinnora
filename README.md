@@ -90,7 +90,7 @@ With a strong background in **IT support**, **system administration**, and **sof
 ## 📫 Contact
 
 - 📧 Email: [phyusin.psa23@gmail.com](mailto:phyusin.psa23@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/phyu-sin-aye-03665a191](https://www.linkedin.com/in/phyu-sin-aye-03665a191)  
+- 🔗 LinkedIn: [linkedin.com/in/phyu-sin-aye-03665a191](https://www.linkedin.com/in/phyu-sin-aye-b3157a340/)  
 - 🖥️ GitHub: [github.com/phyusinnora](https://github.com/phyusinnora)
 
 ---
