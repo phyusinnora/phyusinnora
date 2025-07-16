@@ -1,4 +1,4 @@
-# 👩‍💻 Phyu Sin Aye | Full-Stack Developer
+# 👩‍💻 Phyu Sin Aye | Software Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/phyu-sin-aye-b3157a340/)
 
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I'm an experienced **Full-Stack Developer** currently pursuing a Graduate Diploma in System Analysis at the **National University of Singapore**. My expertise spans **Java Spring Framework**, **Kotlin**, and modern web/mobile application development.
+I'm an experienced **Software Developer** currently pursuing a Graduate Diploma in System Analysis at the **National University of Singapore**. My expertise spans **Java Spring Framework**, **Kotlin**, and modern web/mobile application development.
 
 With a strong background in **IT support**, **system administration**, and **software design**, I bring both technical knowledge and hands-on experience in delivering user-friendly and scalable solutions.
 
